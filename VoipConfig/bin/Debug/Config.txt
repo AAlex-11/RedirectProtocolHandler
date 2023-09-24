@@ -1,0 +1,2 @@
+﻿test,localhost,ext1,user1,pass1
+sip,google.com,ext2,user2,pass2

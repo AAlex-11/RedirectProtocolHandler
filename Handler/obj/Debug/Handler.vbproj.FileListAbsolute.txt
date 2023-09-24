@@ -1,0 +1,13 @@
+E:\Projects\ProtocolHandler\Test\Handler\obj\Debug\Handler.vbproj.AssemblyReference.cache
+E:\Projects\ProtocolHandler\Test\Handler\obj\Debug\Handler.vbproj.SuggestedBindingRedirects.cache
+E:\Projects\ProtocolHandler\Test\Handler\obj\Debug\Handler.vbproj.GenerateResource.cache
+E:\Projects\ProtocolHandler\Test\Handler\obj\Debug\Handler.vbproj.CoreCompileInputs.cache
+E:\Projects\ProtocolHandler\Test\Handler\bin\Debug\VoipPlus.exe.config
+E:\Projects\ProtocolHandler\Test\Handler\bin\Debug\VoipPlus.exe
+E:\Projects\ProtocolHandler\Test\Handler\bin\Debug\VoipPlus.pdb
+E:\Projects\ProtocolHandler\Test\Handler\bin\Debug\VoipPlus.xml
+E:\Projects\ProtocolHandler\Test\Handler\obj\Debug\VoipPlus.MainForm.resources
+E:\Projects\ProtocolHandler\Test\Handler\obj\Debug\VoipPlus.Resources.resources
+E:\Projects\ProtocolHandler\Test\Handler\obj\Debug\VoipPlus.exe
+E:\Projects\ProtocolHandler\Test\Handler\obj\Debug\VoipPlus.xml
+E:\Projects\ProtocolHandler\Test\Handler\obj\Debug\VoipPlus.pdb

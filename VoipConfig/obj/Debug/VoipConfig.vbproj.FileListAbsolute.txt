@@ -1,0 +1,14 @@
+E:\Projects\ProtocolHandler\Test\VoipConfig\bin\Debug\VoipConfig.exe.config
+E:\Projects\ProtocolHandler\Test\VoipConfig\bin\Debug\VoipConfig.exe
+E:\Projects\ProtocolHandler\Test\VoipConfig\bin\Debug\VoipConfig.pdb
+E:\Projects\ProtocolHandler\Test\VoipConfig\bin\Debug\VoipConfig.xml
+E:\Projects\ProtocolHandler\Test\VoipConfig\obj\Debug\VoipConfig.vbproj.AssemblyReference.cache
+E:\Projects\ProtocolHandler\Test\VoipConfig\obj\Debug\VoipConfig.vbproj.SuggestedBindingRedirects.cache
+E:\Projects\ProtocolHandler\Test\VoipConfig\obj\Debug\VoipConfig.Resources.resources
+E:\Projects\ProtocolHandler\Test\VoipConfig\obj\Debug\VoipConfig.StartForm.resources
+E:\Projects\ProtocolHandler\Test\VoipConfig\obj\Debug\VoipConfig.vbproj.GenerateResource.cache
+E:\Projects\ProtocolHandler\Test\VoipConfig\obj\Debug\VoipConfig.vbproj.CoreCompileInputs.cache
+E:\Projects\ProtocolHandler\Test\VoipConfig\obj\Debug\VoipConfig.exe
+E:\Projects\ProtocolHandler\Test\VoipConfig\obj\Debug\VoipConfig.xml
+E:\Projects\ProtocolHandler\Test\VoipConfig\obj\Debug\VoipConfig.pdb
+E:\Projects\ProtocolHandler\Test\VoipConfig\bin\Debug\Config.txt

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Handler", "Handler\Handler.vbproj", "{F17911A0-0DBB-4BFD-BDDE-D155001CEF60}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VoipConfig", "VoipConfig\VoipConfig.vbproj", "{8B3C21C5-5D9F-4BEB-B6E2-5DC3F4AEFE2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F17911A0-0DBB-4BFD-BDDE-D155001CEF60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17911A0-0DBB-4BFD-BDDE-D155001CEF60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17911A0-0DBB-4BFD-BDDE-D155001CEF60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17911A0-0DBB-4BFD-BDDE-D155001CEF60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3C21C5-5D9F-4BEB-B6E2-5DC3F4AEFE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3C21C5-5D9F-4BEB-B6E2-5DC3F4AEFE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3C21C5-5D9F-4BEB-B6E2-5DC3F4AEFE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3C21C5-5D9F-4BEB-B6E2-5DC3F4AEFE2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C78C9495-D4FC-447D-97D9-BB65074B713B}
+	EndGlobalSection
+EndGlobal
